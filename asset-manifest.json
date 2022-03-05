@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/BJProfile/static/css/main.625b0f0d.css",
+    "main.js": "/BJProfile/static/js/main.e71d6536.js",
+    "static/media/bijay.jpg": "/BJProfile/static/media/bijay.d07835b7c42ad1463c1e.jpg",
+    "static/media/fa-solid-900.ttf": "/BJProfile/static/media/fa-solid-900.79da213423ac0def2058.ttf",
+    "static/media/fa-brands-400.ttf": "/BJProfile/static/media/fa-brands-400.0a1b701f5563c2288281.ttf",
+    "static/media/fa-solid-900.woff2": "/BJProfile/static/media/fa-solid-900.4896d4b04430cc3dfb06.woff2",
+    "static/media/Bijay_Khadka_CV.pdf": "/BJProfile/static/media/Bijay_Khadka_CV.2871c75330628b17cc25.pdf",
+    "static/media/fa-brands-400.woff2": "/BJProfile/static/media/fa-brands-400.f77bcc98bb7468c8b15a.woff2",
+    "static/media/coder.png": "/BJProfile/static/media/coder.fe317ef593c39e757164.png",
+    "static/media/fa-regular-400.ttf": "/BJProfile/static/media/fa-regular-400.15d98c18221c8bcb2334.ttf",
+    "static/media/team.png": "/BJProfile/static/media/team.2ba345f7ba4be9d14eae.png",
+    "static/media/fa-regular-400.woff2": "/BJProfile/static/media/fa-regular-400.d79c2ec96ab9ff1161a2.woff2",
+    "static/media/fa-v4compatibility.ttf": "/BJProfile/static/media/fa-v4compatibility.52eba2c567c521b8d58a.ttf",
+    "static/media/fa-v4compatibility.woff2": "/BJProfile/static/media/fa-v4compatibility.3d503f89ccaf1b224aa5.woff2",
+    "static/media/GraphQL.svg": "/BJProfile/static/media/GraphQL.389d8b14e15438f18f88a7dca730b103.svg",
+    "index.html": "/BJProfile/index.html",
+    "main.625b0f0d.css.map": "/BJProfile/static/css/main.625b0f0d.css.map",
+    "main.e71d6536.js.map": "/BJProfile/static/js/main.e71d6536.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.625b0f0d.css",
+    "static/js/main.e71d6536.js"
+  ]
+}
